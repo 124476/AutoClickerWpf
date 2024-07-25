@@ -1,0 +1,17 @@
+C:\Users\art82\source\repos\Autocliker\Autocliker\bin\Debug\Autocliker.exe.config
+C:\Users\art82\source\repos\Autocliker\Autocliker\bin\Debug\Autocliker.exe
+C:\Users\art82\source\repos\Autocliker\Autocliker\bin\Debug\Autocliker.pdb
+C:\Users\art82\source\repos\Autocliker\Autocliker\bin\Debug\WindowsInput.dll
+C:\Users\art82\source\repos\Autocliker\Autocliker\obj\Debug\Autocliker.csproj.AssemblyReference.cache
+C:\Users\art82\source\repos\Autocliker\Autocliker\obj\Debug\MainWindow.g.cs
+C:\Users\art82\source\repos\Autocliker\Autocliker\obj\Debug\App.g.cs
+C:\Users\art82\source\repos\Autocliker\Autocliker\obj\Debug\Autocliker_MarkupCompile.cache
+C:\Users\art82\source\repos\Autocliker\Autocliker\obj\Debug\Autocliker_MarkupCompile.lref
+C:\Users\art82\source\repos\Autocliker\Autocliker\obj\Debug\MainWindow.baml
+C:\Users\art82\source\repos\Autocliker\Autocliker\obj\Debug\Autocliker.g.resources
+C:\Users\art82\source\repos\Autocliker\Autocliker\obj\Debug\Autocliker.Properties.Resources.resources
+C:\Users\art82\source\repos\Autocliker\Autocliker\obj\Debug\Autocliker.csproj.GenerateResource.cache
+C:\Users\art82\source\repos\Autocliker\Autocliker\obj\Debug\Autocliker.csproj.CoreCompileInputs.cache
+C:\Users\art82\source\repos\Autocliker\Autocliker\obj\Debug\Autocliker.csproj.Up2Date
+C:\Users\art82\source\repos\Autocliker\Autocliker\obj\Debug\Autocliker.exe
+C:\Users\art82\source\repos\Autocliker\Autocliker\obj\Debug\Autocliker.pdb

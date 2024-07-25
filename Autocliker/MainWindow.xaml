@@ -1,0 +1,26 @@
+﻿<Window x:Class="Autocliker.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Autocliker"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Width="200">
+            <TextBlock Text="Time" FontSize="17"></TextBlock>
+            <TextBox x:Name="TextValue" FontSize="17" PreviewTextInput="TextValue_PreviewTextInput"></TextBox>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="X:" FontSize="17" Margin="10,0"></TextBlock>
+                <TextBlock x:Name="XValue" FontSize="17"></TextBlock>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="Y:" FontSize="17" Margin="10,0"></TextBlock>
+                <TextBlock x:Name="YValue" FontSize="17"></TextBlock>
+            </StackPanel>
+            <Button x:Name="StartBtn" Content="Start"  Click="StartBtn_Click"></Button>
+            <Button x:Name="StopBtn" Content="Stop"  Click="StopBtn_Click"></Button>
+            <Button x:Name="PickBtn" Content="Pick"  Click="PickBtn_Click"></Button>
+        </StackPanel>
+    </Grid>
+</Window>
